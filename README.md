@@ -14,7 +14,7 @@
 
 ### 📥 下载
 
-**最新版本**: [v1.0.0](https://github.com/crispvibe/Windsurf-Tool/releases/latest)
+**最新版本**: [Windsurf-Tool for Mac 1.0](https://github.com/crispvibe/Windsurf-Tool/releases/latest)
 
 | 平台 | 架构 | 下载链接 |
 |------|------|----------|

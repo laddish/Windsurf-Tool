@@ -14,7 +14,7 @@
 
 ### 📥 Download
 
-**Latest Version**: [v1.0.0](https://github.com/crispvibe/Windsurf-Tool/releases/latest)
+**Latest Version**: [Windsurf-Tool for Mac 1.0](https://github.com/crispvibe/Windsurf-Tool/releases/latest)
 
 | Platform | Architecture | Download |
 |----------|--------------|----------|
